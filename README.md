@@ -1,2 +1,2 @@
 # comix
-My [comix.altervista.org](comix.altervista.org) website demo.
+My [comix.altervista.org](http://comix.altervista.org/) website demo.
